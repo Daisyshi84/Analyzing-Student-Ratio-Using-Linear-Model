@@ -222,6 +222,7 @@ mapped %>%
   theme(panel.grid = element_blank(), axis.text = element_blank()) +
   labs(title = "2012 Primary Education", subtitle = "Student to teacher ratio", x = "", y = "") +
   coord_cartesian(ylim = c(-55, 80))
+  
 ```
 
 
